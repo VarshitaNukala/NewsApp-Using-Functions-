@@ -75,7 +75,10 @@ const App = () => {
               path="/home"
               element={<News key="home" category="world" />}
             ></Route>          
-
+            <Route
+            path="/NewsApp-Using-Functions-/"
+            element={<News key="gen" category="world" />}
+          ></Route>
 
           
         </Routes>
