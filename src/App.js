@@ -68,16 +68,12 @@ const App = () => {
             element={<News key="world" category="world" />}
           ></Route>
           <Route
-            path="/NewsApp/home"
+            path="/NewsApp-Using-Functions-/home"
             element={<News key="general" category="world" />}
           ></Route>
           <Route
             path="/home"
             element={<News key="home" category="world" />}
-          ></Route>
-          <Route
-            path="/NewsApp-Using-Functions-/home"
-            element={<News key="gen" category="world" />}
           ></Route>
         </Routes>
       </Router>
