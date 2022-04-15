@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/NewsAppMain/home/static/css/main.2462828c.css",
+    "main.js": "/NewsAppMain/home/static/js/main.a5a1eb88.js",
+    "static/media/spinner.gif": "/NewsAppMain/home/static/media/spinner.aa9a1c9b38652308939c.gif",
+    "index.html": "/NewsAppMain/home/index.html",
+    "main.2462828c.css.map": "/NewsAppMain/home/static/css/main.2462828c.css.map",
+    "main.a5a1eb88.js.map": "/NewsAppMain/home/static/js/main.a5a1eb88.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2462828c.css",
+    "static/js/main.a5a1eb88.js"
+  ]
+}
